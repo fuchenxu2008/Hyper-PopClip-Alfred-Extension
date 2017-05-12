@@ -10,11 +10,17 @@ So I took a detour, utiliseing an alternative.
 
 ## Result##
 
+- #### PopClip Extension####
 
+  ![popcliptest]()
+
+- #### Alfred####
+
+![alfredresult](https://github.com/fuchenxu2008/Hyper-PopClip-Alfred-Extension/raw/master/Alfred/alfredtest.gif)
 
 ## Principle##
 
-- ### PopClip###
+- #### PopClip####
 
 1. It first copys the text you select to the **ClipBoard**.
 
@@ -26,7 +32,7 @@ So I took a detour, utiliseing an alternative.
 
 5. Delay for 0.5 seconds (Optional) and simulate keypress **Return**.
 
-- ### Alfred###
+- #### Alfred####
 
  Similar as above, the AppleScript code is altered accordingly.
 
