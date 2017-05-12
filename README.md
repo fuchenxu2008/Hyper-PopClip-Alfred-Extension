@@ -6,7 +6,7 @@
 
 However, it is built based on **Node.js** using [Electron](https://electron.atom.io) which does not come with AppleScript support like [iTerm](http://www.iterm2.com) does.
 
-So I took a detour, utiliseing an alternative.
+So I took a detour, utilizing an alternative.
 
 ## Result
 
