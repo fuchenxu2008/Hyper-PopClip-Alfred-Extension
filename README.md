@@ -12,7 +12,7 @@ So I took a detour, utiliseing an alternative.
 
 - #### PopClip Extension####
 
-  ![popcliptest](https://github.com/fuchenxu2008/Hyper-PopClip-Alfred-Extension/raw/master/PopClip/PopCliptest.gif)
+![popcliptest](https://github.com/fuchenxu2008/Hyper-PopClip-Alfred-Extension/raw/master/PopClip/PopCliptest.gif)
 
 - #### Alfred####
 
@@ -42,4 +42,4 @@ So I took a detour, utiliseing an alternative.
 
 Install [PopClip Extension](https://github.com/fuchenxu2008/Hyper-PopClip-Alfred-Extension/raw/master/PopClip/Hyper.zip) here and rename the zip file to **"Hyper.popclipext"**.
 
-Install [Alfred AppleScript]() here and put the content text to Alfred Terminal Settings section.
+Install [Alfred AppleScript](https://github.com/fuchenxu2008/Hyper-PopClip-Alfred-Extension/raw/master/Alfred/HyperAlfred.applescript) here and put the content text to Alfred Terminal Settings section.
