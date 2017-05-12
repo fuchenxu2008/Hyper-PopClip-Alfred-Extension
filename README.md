@@ -1,4 +1,4 @@
-# PopClip/Alfred for Hyper Terminal#
+# PopClip/Alfred for Hyper Terminal
 
 [Hyper](https://hyper.is) is an elegant Terminal App for macOS (also available on Windows and Linux).
 
