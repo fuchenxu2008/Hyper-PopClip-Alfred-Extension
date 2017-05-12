@@ -8,19 +8,19 @@ However, it is built based on **Node.js** using [Electron](https://electron.atom
 
 So I took a detour, utiliseing an alternative.
 
-## Result##
+## Result
 
-- #### PopClip Extension####
+- #### PopClip Extension
 
 ![popcliptest](https://github.com/fuchenxu2008/Hyper-PopClip-Alfred-Extension/raw/master/PopClip/PopCliptest.gif)
 
-- #### Alfred####
+- #### Alfred
 
 ![alfredresult](https://github.com/fuchenxu2008/Hyper-PopClip-Alfred-Extension/raw/master/Alfred/alfredtest.gif)
 
-## Principle##
+## Principle
 
-- #### PopClip####
+- #### PopClip
 
 1. It first copys the text you select to the **ClipBoard**.
 
@@ -32,13 +32,13 @@ So I took a detour, utiliseing an alternative.
 
 5. Delay for 0.5 seconds (Optional) and simulate keypress **Return**.
 
-- #### Alfred####
+- #### Alfred
 
  Similar as above, the AppleScript code is altered accordingly.
 
 ![Alfred](https://github.com/fuchenxu2008/Hyper-PopClip-Alfred-Extension/raw/master/Alfred/Alfred.png)
 
-## Install##
+## Install
 
 Install [PopClip Extension](https://github.com/fuchenxu2008/Hyper-PopClip-Alfred-Extension/raw/master/PopClip/Hyper.zip) here and rename the zip file to **"Hyper.popclipext"**.
 
